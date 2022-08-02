@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Meclis.API", "Meclis.API\Meclis.API.csproj", "{2BFD86EA-F906-4864-9576-79FA9F54D301}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Meclis.API.Tests", "Meclis.API.Tests\Meclis.API.Tests.csproj", "{D90B1FCE-0DA0-4BDB-83F7-41780D3A6AC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BFD86EA-F906-4864-9576-79FA9F54D301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BFD86EA-F906-4864-9576-79FA9F54D301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BFD86EA-F906-4864-9576-79FA9F54D301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BFD86EA-F906-4864-9576-79FA9F54D301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D90B1FCE-0DA0-4BDB-83F7-41780D3A6AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90B1FCE-0DA0-4BDB-83F7-41780D3A6AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D90B1FCE-0DA0-4BDB-83F7-41780D3A6AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90B1FCE-0DA0-4BDB-83F7-41780D3A6AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9586139-15CD-4713-AC60-76C85D39968A}
+	EndGlobalSection
+EndGlobal
